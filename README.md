@@ -29,7 +29,7 @@
 
 ## Структура проекта
 ```text
-Morozov_Arseniy_Igorevich_reshish_avia/
+reshish_avia/
 ├── app.py                                      # Backend-сервер на Flask, API расчёта и авторизация
 ├── Morozov_Arseniy_Igorevich_my_forecast.csv   # Таблица с квантилями прогноза спроса
 ├── passenger_wsgi.py                           # Точка входа WSGI для виртуального хостинга
