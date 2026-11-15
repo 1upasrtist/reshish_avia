@@ -48,5 +48,5 @@ reshish_avia/
    ```bash
    python app.py
    ```
-3. Откройте в браузере адрес `http://127.0.0.1:5000`.
+3. Откройте в браузере адрес `https://reshish-avia-morozov.onrender.com/'
 
